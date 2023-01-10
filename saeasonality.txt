@@ -1,0 +1,6 @@
+#ANALYSING SEASONALITY AND BUSINESS PATTERNS
+
+-This analys ll give us idea about how was the orders taking place and which season have more orders and which seasion have greater demand of differeant products.
+-day wise analysis which understand how much support staff should have at different time.
+-analysing sessons to be preapre for upcoming up and down in demand.
+
